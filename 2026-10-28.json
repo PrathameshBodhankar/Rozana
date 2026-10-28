@@ -1,0 +1,171 @@
+{
+ "paper": 2,
+ "date": "2026-10-28",
+ "word": {
+  "answer": "GANGA",
+  "clue": {
+   "en": "Declared India's National River in 2008.",
+   "hi": "2008 में भारत की राष्ट्रीय नदी घोषित की गई।"
+  }
+ },
+ "gs": [
+  {
+   "tag": {
+    "en": "Polity",
+    "hi": "राजव्यवस्था"
+   },
+   "ans": 0,
+   "q": {
+    "en": "Fundamental Duties were added to the Constitution by which Amendment?",
+    "hi": "मौलिक कर्तव्य किस संविधान संशोधन द्वारा जोड़े गए?"
+   },
+   "o": {
+    "en": [
+     "42nd Amendment",
+     "44th Amendment",
+     "73rd Amendment",
+     "86th Amendment"
+    ],
+    "hi": [
+     "42वाँ संशोधन",
+     "44वाँ संशोधन",
+     "73वाँ संशोधन",
+     "86वाँ संशोधन"
+    ]
+   },
+   "x": {
+    "en": "The 42nd Amendment (1976), on the Swaran Singh Committee's advice, added Part IVA and Article 51A. The 86th Amendment (2002) later added the duty on children's education.",
+    "hi": "स्वर्ण सिंह समिति की सिफारिश पर 42वें संशोधन (1976) ने भाग IVA और अनुच्छेद 51A जोड़ा। बाद में 86वें संशोधन (2002) ने बच्चों की शिक्षा से जुड़ा कर्तव्य जोड़ा।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Geography",
+    "hi": "भूगोल"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Which is the southernmost point of India?",
+    "hi": "भारत का सबसे दक्षिणी बिंदु कौन-सा है?"
+   },
+   "o": {
+    "en": [
+     "Kanyakumari",
+     "Indira Point",
+     "Rameswaram",
+     "Port Blair"
+    ],
+    "hi": [
+     "कन्याकुमारी",
+     "इंदिरा पॉइंट",
+     "रामेश्वरम",
+     "पोर्ट ब्लेयर"
+    ]
+   },
+   "x": {
+    "en": "Indira Point on Great Nicobar Island is India's southernmost point. Kanyakumari is the southern tip of the mainland.",
+    "hi": "ग्रेट निकोबार द्वीप पर इंदिरा पॉइंट भारत का सबसे दक्षिणी बिंदु है। कन्याकुमारी मुख्य भूमि का दक्षिणी छोर है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Economy",
+    "hi": "अर्थव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "From which date did GST come into effect in India?",
+    "hi": "भारत में GST किस तिथि से लागू हुआ?"
+   },
+   "o": {
+    "en": [
+     "1 April 2017",
+     "1 July 2017",
+     "1 July 2016",
+     "1 April 2018"
+    ],
+    "hi": [
+     "1 अप्रैल 2017",
+     "1 जुलाई 2017",
+     "1 जुलाई 2016",
+     "1 अप्रैल 2018"
+    ]
+   },
+   "x": {
+    "en": "GST was rolled out on 1 July 2017, enabled by the 101st Constitutional Amendment Act, 2016.",
+    "hi": "GST 1 जुलाई 2017 से लागू हुआ। इसका आधार 101वाँ संविधान संशोधन अधिनियम, 2016 है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Science & Tech",
+    "hi": "विज्ञान व प्रौद्योगिकी"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Chandrayaan-3's Vikram lander touched down near which region of the Moon?",
+    "hi": "चंद्रयान-3 का विक्रम लैंडर चंद्रमा के किस क्षेत्र के पास उतरा?"
+   },
+   "o": {
+    "en": [
+     "North pole",
+     "South pole",
+     "Equator",
+     "Far side centre"
+    ],
+    "hi": [
+     "उत्तरी ध्रुव",
+     "दक्षिणी ध्रुव",
+     "भूमध्य रेखा",
+     "सुदूर भाग का केंद्र"
+    ]
+   },
+   "x": {
+    "en": "Vikram landed near the lunar south pole on 23 August 2023, making India the first country to land there. 23 August is now National Space Day.",
+    "hi": "विक्रम 23 अगस्त 2023 को चंद्रमा के दक्षिणी ध्रुव के पास उतरा। भारत वहाँ उतरने वाला पहला देश बना। 23 अगस्त अब राष्ट्रीय अंतरिक्ष दिवस है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "History",
+    "hi": "इतिहास"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Who founded the Indian National Congress in 1885?",
+    "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना किसने की?"
+   },
+   "o": {
+    "en": [
+     "Dadabhai Naoroji",
+     "A. O. Hume",
+     "W. C. Bonnerjee",
+     "Surendranath Banerjee"
+    ],
+    "hi": [
+     "दादाभाई नौरोजी",
+     "ए. ओ. ह्यूम",
+     "डब्ल्यू. सी. बनर्जी",
+     "सुरेंद्रनाथ बनर्जी"
+    ]
+   },
+   "x": {
+    "en": "Allan Octavian Hume founded the INC. Its first session was held in Bombay in December 1885, presided over by W. C. Bonnerjee.",
+    "hi": "एलन ऑक्टेवियन ह्यूम ने कांग्रेस की स्थापना की। पहला अधिवेशन दिसंबर 1885 में बंबई में हुआ, जिसकी अध्यक्षता डब्ल्यू. सी. बनर्जी ने की।"
+   }
+  }
+ ],
+ "reasoning": {
+  "series": [
+   3,
+   9,
+   27,
+   81
+  ],
+  "answer": 243,
+  "explain": {
+   "en": "Each term is multiplied by 3: 81 × 3 = 243.",
+   "hi": "हर पद को 3 से गुणा किया गया है: 81 × 3 = 243।"
+  }
+ }
+}

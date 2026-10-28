@@ -1,0 +1,172 @@
+{
+ "paper": 1,
+ "word": {
+  "answer": "RUPEE",
+  "clue": {
+   "en": "Indian currency whose ₹ symbol, designed by D. Udaya Kumar, was adopted in 2010.",
+   "hi": "भारतीय मुद्रा, जिसका ₹ चिह्न डी. उदय कुमार ने बनाया और 2010 में अपनाया गया।"
+  }
+ },
+ "gs": [
+  {
+   "tag": {
+    "en": "Polity",
+    "hi": "राजव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Which Article of the Constitution abolishes untouchability?",
+    "hi": "संविधान का कौन-सा अनुच्छेद अस्पृश्यता का अंत करता है?"
+   },
+   "o": {
+    "en": [
+     "Article 14",
+     "Article 17",
+     "Article 21",
+     "Article 32"
+    ],
+    "hi": [
+     "अनुच्छेद 14",
+     "अनुच्छेद 17",
+     "अनुच्छेद 21",
+     "अनुच्छेद 32"
+    ]
+   },
+   "x": {
+    "en": "Article 17 abolishes untouchability and forbids its practice in any form. Article 14 is equality before law, 21 is life and personal liberty, 32 is the right to constitutional remedies.",
+    "hi": "अनुच्छेद 17 अस्पृश्यता का अंत करता है और किसी भी रूप में इसके आचरण को निषिद्ध करता है। अनुच्छेद 14 विधि के समक्ष समता, 21 प्राण और दैहिक स्वतंत्रता, और 32 संवैधानिक उपचारों का अधिकार है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Polity",
+    "hi": "राजव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Who is the ex-officio Chairman of the Rajya Sabha?",
+    "hi": "राज्यसभा का पदेन सभापति कौन होता है?"
+   },
+   "o": {
+    "en": [
+     "Prime Minister",
+     "Vice-President of India",
+     "Speaker of the Lok Sabha",
+     "President of India"
+    ],
+    "hi": [
+     "प्रधानमंत्री",
+     "भारत के उपराष्ट्रपति",
+     "लोकसभा अध्यक्ष",
+     "भारत के राष्ट्रपति"
+    ]
+   },
+   "x": {
+    "en": "Under Articles 64 and 89, the Vice-President is the ex-officio Chairman of the Rajya Sabha. The Deputy Chairman is elected from among its members.",
+    "hi": "अनुच्छेद 64 और 89 के अनुसार उपराष्ट्रपति राज्यसभा के पदेन सभापति होते हैं। उपसभापति सदस्यों में से चुना जाता है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Geography",
+    "hi": "भूगोल"
+   },
+   "ans": 0,
+   "q": {
+    "en": "Kaziranga National Park, home to the largest population of one-horned rhinos, is in which state?",
+    "hi": "एक सींग वाले गैंडों की सबसे बड़ी आबादी वाला काज़ीरंगा राष्ट्रीय उद्यान किस राज्य में है?"
+   },
+   "o": {
+    "en": [
+     "Assam",
+     "West Bengal",
+     "Arunachal Pradesh",
+     "Meghalaya"
+    ],
+    "hi": [
+     "असम",
+     "पश्चिम बंगाल",
+     "अरुणाचल प्रदेश",
+     "मेघालय"
+    ]
+   },
+   "x": {
+    "en": "Kaziranga is in Assam and has been a UNESCO World Heritage Site since 1985.",
+    "hi": "काज़ीरंगा असम में है और 1985 से यूनेस्को विश्व धरोहर स्थल है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Economy",
+    "hi": "अर्थव्यवस्था"
+   },
+   "ans": 2,
+   "q": {
+    "en": "How many members does the RBI's Monetary Policy Committee have?",
+    "hi": "RBI की मौद्रिक नीति समिति में कितने सदस्य होते हैं?"
+   },
+   "o": {
+    "en": [
+     "4",
+     "5",
+     "6",
+     "7"
+    ],
+    "hi": [
+     "4",
+     "5",
+     "6",
+     "7"
+    ]
+   },
+   "x": {
+    "en": "Six: three from the RBI, including the Governor who chairs it, and three appointed by the central government (RBI Act, amended 2016).",
+    "hi": "छह: गवर्नर (अध्यक्ष) सहित तीन RBI से और तीन केंद्र सरकार द्वारा नियुक्त (RBI अधिनियम, 2016 संशोधन)।"
+   }
+  },
+  {
+   "tag": {
+    "en": "History",
+    "hi": "इतिहास"
+   },
+   "ans": 0,
+   "q": {
+    "en": "In which year was the Battle of Plassey fought?",
+    "hi": "प्लासी का युद्ध किस वर्ष लड़ा गया था?"
+   },
+   "o": {
+    "en": [
+     "1757",
+     "1764",
+     "1761",
+     "1857"
+    ],
+    "hi": [
+     "1757",
+     "1764",
+     "1761",
+     "1857"
+    ]
+   },
+   "x": {
+    "en": "Robert Clive's East India Company forces defeated Siraj-ud-Daulah in June 1757. 1764 is Buxar and 1761 is the Third Battle of Panipat.",
+    "hi": "जून 1757 में रॉबर्ट क्लाइव के नेतृत्व में ईस्ट इंडिया कंपनी ने सिराजुद्दौला को हराया। 1764 बक्सर और 1761 पानीपत का तीसरा युद्ध है।"
+   }
+  }
+ ],
+ "reasoning": {
+  "series": [
+   2,
+   6,
+   12,
+   20,
+   30
+  ],
+  "answer": 42,
+  "explain": {
+   "en": "The gaps grow by 2: +4, +6, +8, +10, so the next gap is +12. 30 + 12 = 42. (Each term is n × (n+1).)",
+   "hi": "अंतर 2-2 से बढ़ते हैं: +4, +6, +8, +10, इसलिए अगला अंतर +12 है। 30 + 12 = 42। (हर पद n × (n+1) है।)"
+  }
+ },
+ "date": "2026-10-27"
+}
