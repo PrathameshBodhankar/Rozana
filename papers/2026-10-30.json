@@ -1,0 +1,172 @@
+{
+ "paper": 4,
+ "date": "2026-10-30",
+ "word": {
+  "answer": "INDUS",
+  "clue": {
+   "en": "River that gives India its name; a 1960 water treaty with Pakistan is named after it.",
+   "hi": "वह नदी जिससे भारत का नाम पड़ा; पाकिस्तान के साथ 1960 की जल संधि इसी के नाम पर है।"
+  }
+ },
+ "gs": [
+  {
+   "tag": {
+    "en": "Polity",
+    "hi": "राजव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Who appoints the Chief Election Commissioner of India?",
+    "hi": "भारत के मुख्य निर्वाचन आयुक्त की नियुक्ति कौन करता है?"
+   },
+   "o": {
+    "en": [
+     "Prime Minister",
+     "President",
+     "Chief Justice of India",
+     "Parliament"
+    ],
+    "hi": [
+     "प्रधानमंत्री",
+     "राष्ट्रपति",
+     "भारत के मुख्य न्यायाधीश",
+     "संसद"
+    ]
+   },
+   "x": {
+    "en": "Under Article 324, the President appoints the Chief Election Commissioner and other Election Commissioners.",
+    "hi": "अनुच्छेद 324 के तहत राष्ट्रपति मुख्य निर्वाचन आयुक्त और अन्य निर्वाचन आयुक्तों की नियुक्ति करते हैं।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Geography",
+    "hi": "भूगोल"
+   },
+   "ans": 2,
+   "q": {
+    "en": "The Tropic of Cancer does NOT pass through which state?",
+    "hi": "कर्क रेखा किस राज्य से होकर नहीं गुजरती?"
+   },
+   "o": {
+    "en": [
+     "Rajasthan",
+     "Gujarat",
+     "Odisha",
+     "Mizoram"
+    ],
+    "hi": [
+     "राजस्थान",
+     "गुजरात",
+     "ओडिशा",
+     "मिज़ोरम"
+    ]
+   },
+   "x": {
+    "en": "It passes through 8 states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. Not Odisha.",
+    "hi": "यह 8 राज्यों से गुजरती है: गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिज़ोरम। ओडिशा से नहीं।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Economy",
+    "hi": "अर्थव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "NITI Aayog replaced which body in 2015?",
+    "hi": "2015 में नीति आयोग ने किस संस्था का स्थान लिया?"
+   },
+   "o": {
+    "en": [
+     "Finance Commission",
+     "Planning Commission",
+     "National Development Council",
+     "Inter-State Council"
+    ],
+    "hi": [
+     "वित्त आयोग",
+     "योजना आयोग",
+     "राष्ट्रीय विकास परिषद",
+     "अंतर-राज्य परिषद"
+    ]
+   },
+   "x": {
+    "en": "NITI Aayog was set up on 1 January 2015, replacing the Planning Commission formed in 1950.",
+    "hi": "नीति आयोग 1 जनवरी 2015 को बना और इसने 1950 में बने योजना आयोग का स्थान लिया।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Science",
+    "hi": "विज्ञान"
+   },
+   "ans": 2,
+   "q": {
+    "en": "Which gas makes up most of the Earth's atmosphere?",
+    "hi": "पृथ्वी के वायुमंडल में सबसे अधिक कौन-सी गैस है?"
+   },
+   "o": {
+    "en": [
+     "Oxygen",
+     "Carbon dioxide",
+     "Nitrogen",
+     "Argon"
+    ],
+    "hi": [
+     "ऑक्सीजन",
+     "कार्बन डाइऑक्साइड",
+     "नाइट्रोजन",
+     "आर्गन"
+    ]
+   },
+   "x": {
+    "en": "Nitrogen is about 78% of the atmosphere, oxygen about 21% and argon under 1%.",
+    "hi": "नाइट्रोजन लगभग 78%, ऑक्सीजन लगभग 21% और आर्गन 1% से कम है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "History",
+    "hi": "इतिहास"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Who was the first Indian Governor-General of independent India?",
+    "hi": "स्वतंत्र भारत के पहले भारतीय गवर्नर-जनरल कौन थे?"
+   },
+   "o": {
+    "en": [
+     "Rajendra Prasad",
+     "C. Rajagopalachari",
+     "Sardar Patel",
+     "Jawaharlal Nehru"
+    ],
+    "hi": [
+     "राजेंद्र प्रसाद",
+     "सी. राजगोपालाचारी",
+     "सरदार पटेल",
+     "जवाहरलाल नेहरू"
+    ]
+   },
+   "x": {
+    "en": "C. Rajagopalachari succeeded Lord Mountbatten in 1948 and was the only Indian to hold the post before India became a republic in 1950.",
+    "hi": "सी. राजगोपालाचारी 1948 में लॉर्ड माउंटबेटन के बाद बने। 1950 में गणराज्य बनने से पहले वे इस पद पर रहे एकमात्र भारतीय थे।"
+   }
+  }
+ ],
+ "reasoning": {
+  "series": [
+   1,
+   4,
+   9,
+   16,
+   25
+  ],
+  "answer": 36,
+  "explain": {
+   "en": "These are squares: 1², 2², 3², 4², 5², so next is 6² = 36.",
+   "hi": "ये वर्ग संख्याएँ हैं: 1², 2², 3², 4², 5², अगली 6² = 36।"
+  }
+ }
+}

@@ -1,0 +1,173 @@
+{
+ "paper": 7,
+ "date": "2026-11-02",
+ "word": {
+  "answer": "TIGER",
+  "clue": {
+   "en": "India's national animal; a conservation project named after it began in 1973.",
+   "hi": "भारत का राष्ट्रीय पशु; इसके नाम पर संरक्षण परियोजना 1973 में शुरू हुई।"
+  }
+ },
+ "gs": [
+  {
+   "tag": {
+    "en": "Polity",
+    "hi": "राजव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Who chaired the Drafting Committee of the Constituent Assembly?",
+    "hi": "संविधान सभा की प्रारूप समिति के अध्यक्ष कौन थे?"
+   },
+   "o": {
+    "en": [
+     "Jawaharlal Nehru",
+     "B. R. Ambedkar",
+     "Rajendra Prasad",
+     "B. N. Rau"
+    ],
+    "hi": [
+     "जवाहरलाल नेहरू",
+     "बी. आर. आंबेडकर",
+     "राजेंद्र प्रसाद",
+     "बी. एन. राव"
+    ]
+   },
+   "x": {
+    "en": "Dr B. R. Ambedkar chaired the Drafting Committee. Rajendra Prasad was President of the Constituent Assembly, and B. N. Rau was its constitutional adviser.",
+    "hi": "डॉ. बी. आर. आंबेडकर प्रारूप समिति के अध्यक्ष थे। राजेंद्र प्रसाद संविधान सभा के अध्यक्ष और बी. एन. राव संवैधानिक सलाहकार थे।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Geography",
+    "hi": "भूगोल"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Which river is called the 'Sorrow of Bihar'?",
+    "hi": "किस नदी को 'बिहार का शोक' कहा जाता है?"
+   },
+   "o": {
+    "en": [
+     "Ganga",
+     "Kosi",
+     "Son",
+     "Gandak"
+    ],
+    "hi": [
+     "गंगा",
+     "कोसी",
+     "सोन",
+     "गंडक"
+    ]
+   },
+   "x": {
+    "en": "The Kosi frequently floods and shifts its course, which earned it the name Sorrow of Bihar.",
+    "hi": "कोसी में बार-बार बाढ़ आती है और यह मार्ग बदलती है, इसलिए इसे बिहार का शोक कहते हैं।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Economy",
+    "hi": "अर्थव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "The repo rate is the rate at which:",
+    "hi": "रेपो दर वह दर है जिस पर:"
+   },
+   "o": {
+    "en": [
+     "Banks lend to the RBI",
+     "The RBI lends to commercial banks",
+     "Banks lend to the public",
+     "The government borrows from the public"
+    ],
+    "hi": [
+     "बैंक RBI को उधार देते हैं",
+     "RBI वाणिज्यिक बैंकों को उधार देता है",
+     "बैंक जनता को उधार देते हैं",
+     "सरकार जनता से उधार लेती है"
+    ]
+   },
+   "x": {
+    "en": "Repo rate is the rate at which the RBI lends short-term funds to banks against government securities. Reverse repo is the opposite direction.",
+    "hi": "रेपो दर पर RBI सरकारी प्रतिभूतियों के बदले बैंकों को अल्पकालिक ऋण देता है। रिवर्स रेपो इसकी उलटी दिशा है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Science",
+    "hi": "विज्ञान"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Which blood group is known as the universal donor?",
+    "hi": "किस रक्त समूह को सार्वभौमिक दाता कहा जाता है?"
+   },
+   "o": {
+    "en": [
+     "AB+",
+     "O−",
+     "A+",
+     "B−"
+    ],
+    "hi": [
+     "AB+",
+     "O−",
+     "A+",
+     "B−"
+    ]
+   },
+   "x": {
+    "en": "O negative red cells have no A, B or Rh antigens, so they can be given to anyone. AB+ is the universal recipient.",
+    "hi": "O निगेटिव में A, B या Rh एंटीजन नहीं होते, इसलिए यह किसी को भी दिया जा सकता है। AB+ सार्वभौमिक ग्राही है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "History",
+    "hi": "इतिहास"
+   },
+   "ans": 1,
+   "q": {
+    "en": "In which year did the Jallianwala Bagh massacre take place?",
+    "hi": "जलियाँवाला बाग हत्याकांड किस वर्ष हुआ?"
+   },
+   "o": {
+    "en": [
+     "1915",
+     "1919",
+     "1922",
+     "1930"
+    ],
+    "hi": [
+     "1915",
+     "1919",
+     "1922",
+     "1930"
+    ]
+   },
+   "x": {
+    "en": "On 13 April 1919 in Amritsar, troops under General Dyer fired on an unarmed crowd.",
+    "hi": "13 अप्रैल 1919 को अमृतसर में जनरल डायर के सैनिकों ने निहत्थी भीड़ पर गोलियाँ चलाईं।"
+   }
+  }
+ ],
+ "reasoning": {
+  "series": [
+   1,
+   1,
+   2,
+   3,
+   5,
+   8
+  ],
+  "answer": 13,
+  "explain": {
+   "en": "Each term is the sum of the two before it (Fibonacci): 5 + 8 = 13.",
+   "hi": "हर पद पिछले दो पदों का योग है (फिबोनाची): 5 + 8 = 13।"
+  }
+ }
+}

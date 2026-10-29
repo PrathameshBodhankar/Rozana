@@ -1,0 +1,172 @@
+{
+ "paper": 5,
+ "date": "2026-10-31",
+ "word": {
+  "answer": "PATEL",
+  "clue": {
+   "en": "Iron Man of India; his birth anniversary, 31 October, is observed as National Unity Day.",
+   "hi": "भारत के लौह पुरुष; उनकी जयंती 31 अक्टूबर राष्ट्रीय एकता दिवस के रूप में मनाई जाती है।"
+  }
+ },
+ "gs": [
+  {
+   "tag": {
+    "en": "History",
+    "hi": "इतिहास"
+   },
+   "ans": 0,
+   "q": {
+    "en": "In which state is the Statue of Unity, honouring Sardar Patel?",
+    "hi": "सरदार पटेल को समर्पित स्टैच्यू ऑफ यूनिटी किस राज्य में है?"
+   },
+   "o": {
+    "en": [
+     "Gujarat",
+     "Maharashtra",
+     "Rajasthan",
+     "Madhya Pradesh"
+    ],
+    "hi": [
+     "गुजरात",
+     "महाराष्ट्र",
+     "राजस्थान",
+     "मध्य प्रदेश"
+    ]
+   },
+   "x": {
+    "en": "The 182 m Statue of Unity stands near the Sardar Sarovar Dam on the Narmada in Gujarat. It was unveiled on 31 October 2018.",
+    "hi": "182 मीटर ऊँची स्टैच्यू ऑफ यूनिटी गुजरात में नर्मदा पर सरदार सरोवर बाँध के पास है। इसका अनावरण 31 अक्टूबर 2018 को हुआ।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Polity",
+    "hi": "राजव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "How many Fundamental Rights does the Constitution currently guarantee?",
+    "hi": "संविधान वर्तमान में कितने मौलिक अधिकार देता है?"
+   },
+   "o": {
+    "en": [
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "hi": [
+     "5",
+     "6",
+     "7",
+     "8"
+    ]
+   },
+   "x": {
+    "en": "Six. The Right to Property was removed from Fundamental Rights by the 44th Amendment (1978) and is now a legal right under Article 300A.",
+    "hi": "छह। 44वें संशोधन (1978) ने संपत्ति के अधिकार को मौलिक अधिकारों से हटाया; अब यह अनुच्छेद 300A के तहत विधिक अधिकार है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Geography",
+    "hi": "भूगोल"
+   },
+   "ans": 2,
+   "q": {
+    "en": "Which is the largest Indian state by area?",
+    "hi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन-सा है?"
+   },
+   "o": {
+    "en": [
+     "Madhya Pradesh",
+     "Maharashtra",
+     "Rajasthan",
+     "Uttar Pradesh"
+    ],
+    "hi": [
+     "मध्य प्रदेश",
+     "महाराष्ट्र",
+     "राजस्थान",
+     "उत्तर प्रदेश"
+    ]
+   },
+   "x": {
+    "en": "Rajasthan is the largest state by area, followed by Madhya Pradesh and Maharashtra. Uttar Pradesh is the largest by population.",
+    "hi": "क्षेत्रफल में राजस्थान सबसे बड़ा है, फिर मध्य प्रदेश और महाराष्ट्र। जनसंख्या में उत्तर प्रदेश सबसे बड़ा है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Economy",
+    "hi": "अर्थव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Where is the headquarters of the Reserve Bank of India?",
+    "hi": "भारतीय रिज़र्व बैंक का मुख्यालय कहाँ है?"
+   },
+   "o": {
+    "en": [
+     "New Delhi",
+     "Mumbai",
+     "Kolkata",
+     "Chennai"
+    ],
+    "hi": [
+     "नई दिल्ली",
+     "मुंबई",
+     "कोलकाता",
+     "चेन्नई"
+    ]
+   },
+   "x": {
+    "en": "The RBI was set up on 1 April 1935 in Calcutta and moved its headquarters to Mumbai in 1937.",
+    "hi": "RBI की स्थापना 1 अप्रैल 1935 को कलकत्ता में हुई और 1937 में मुख्यालय मुंबई गया।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Science",
+    "hi": "विज्ञान"
+   },
+   "ans": 2,
+   "q": {
+    "en": "What is the SI unit of electrical resistance?",
+    "hi": "विद्युत प्रतिरोध की SI इकाई क्या है?"
+   },
+   "o": {
+    "en": [
+     "Volt",
+     "Ampere",
+     "Ohm",
+     "Watt"
+    ],
+    "hi": [
+     "वोल्ट",
+     "एम्पियर",
+     "ओम",
+     "वाट"
+    ]
+   },
+   "x": {
+    "en": "Resistance is measured in ohms (Ω). Volt is for potential difference, ampere for current and watt for power.",
+    "hi": "प्रतिरोध ओम (Ω) में मापा जाता है। वोल्ट विभवांतर, एम्पियर धारा और वाट शक्ति की इकाई है।"
+   }
+  }
+ ],
+ "reasoning": {
+  "series": [
+   2,
+   3,
+   5,
+   7,
+   11
+  ],
+  "answer": 13,
+  "explain": {
+   "en": "These are prime numbers in order. The next prime after 11 is 13.",
+   "hi": "ये क्रम से अभाज्य संख्याएँ हैं। 11 के बाद अगली अभाज्य संख्या 13 है।"
+  }
+ }
+}

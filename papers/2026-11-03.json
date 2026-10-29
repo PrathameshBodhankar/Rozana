@@ -1,0 +1,172 @@
+{
+ "paper": 8,
+ "date": "2026-11-03",
+ "word": {
+  "answer": "LOTUS",
+  "clue": {
+   "en": "India's national flower.",
+   "hi": "भारत का राष्ट्रीय पुष्प।"
+  }
+ },
+ "gs": [
+  {
+   "tag": {
+    "en": "Polity",
+    "hi": "राजव्यवस्था"
+   },
+   "ans": 2,
+   "q": {
+    "en": "Which Amendment gave constitutional status to Panchayati Raj institutions?",
+    "hi": "किस संशोधन ने पंचायती राज संस्थाओं को संवैधानिक दर्जा दिया?"
+   },
+   "o": {
+    "en": [
+     "42nd",
+     "61st",
+     "73rd",
+     "74th"
+    ],
+    "hi": [
+     "42वाँ",
+     "61वाँ",
+     "73वाँ",
+     "74वाँ"
+    ]
+   },
+   "x": {
+    "en": "The 73rd Amendment (1992) added Part IX on Panchayats. The 74th Amendment did the same for urban local bodies.",
+    "hi": "73वें संशोधन (1992) ने पंचायतों पर भाग IX जोड़ा। 74वें संशोधन ने शहरी स्थानीय निकायों के लिए ऐसा किया।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Geography",
+    "hi": "भूगोल"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Which pass connects the Kashmir Valley with Ladakh?",
+    "hi": "कौन-सा दर्रा कश्मीर घाटी को लद्दाख से जोड़ता है?"
+   },
+   "o": {
+    "en": [
+     "Nathu La",
+     "Zoji La",
+     "Shipki La",
+     "Rohtang"
+    ],
+    "hi": [
+     "नाथू ला",
+     "ज़ोजी ला",
+     "शिपकी ला",
+     "रोहतांग"
+    ]
+   },
+   "x": {
+    "en": "Zoji La links Srinagar and Leh. Nathu La is in Sikkim, Shipki La and Rohtang are in Himachal Pradesh.",
+    "hi": "ज़ोजी ला श्रीनगर और लेह को जोड़ता है। नाथू ला सिक्किम में, शिपकी ला और रोहतांग हिमाचल प्रदेश में हैं।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Economy",
+    "hi": "अर्थव्यवस्था"
+   },
+   "ans": 2,
+   "q": {
+    "en": "SEBI is the regulator for which sector?",
+    "hi": "SEBI किस क्षेत्र का नियामक है?"
+   },
+   "o": {
+    "en": [
+     "Banking",
+     "Insurance",
+     "Securities market",
+     "Pension funds"
+    ],
+    "hi": [
+     "बैंकिंग",
+     "बीमा",
+     "प्रतिभूति बाज़ार",
+     "पेंशन फंड"
+    ]
+   },
+   "x": {
+    "en": "SEBI regulates the securities market. It was set up in 1988 and got statutory powers in 1992. IRDAI regulates insurance and PFRDA pensions.",
+    "hi": "SEBI प्रतिभूति बाज़ार का नियामक है। इसकी स्थापना 1988 में हुई और 1992 में वैधानिक शक्तियाँ मिलीं। बीमा का नियामक IRDAI और पेंशन का PFRDA है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Science",
+    "hi": "विज्ञान"
+   },
+   "ans": 2,
+   "q": {
+    "en": "What is the chemical symbol of sodium?",
+    "hi": "सोडियम का रासायनिक प्रतीक क्या है?"
+   },
+   "o": {
+    "en": [
+     "So",
+     "Sd",
+     "Na",
+     "S"
+    ],
+    "hi": [
+     "So",
+     "Sd",
+     "Na",
+     "S"
+    ]
+   },
+   "x": {
+    "en": "Na comes from its Latin name, natrium. S is sulphur.",
+    "hi": "Na इसके लैटिन नाम 'नेट्रियम' से आया है। S सल्फर का प्रतीक है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "History",
+    "hi": "इतिहास"
+   },
+   "ans": 2,
+   "q": {
+    "en": "Who founded the Maurya Empire?",
+    "hi": "मौर्य साम्राज्य की स्थापना किसने की?"
+   },
+   "o": {
+    "en": [
+     "Ashoka",
+     "Bindusara",
+     "Chandragupta Maurya",
+     "Bimbisara"
+    ],
+    "hi": [
+     "अशोक",
+     "बिंदुसार",
+     "चंद्रगुप्त मौर्य",
+     "बिंबिसार"
+    ]
+   },
+   "x": {
+    "en": "Chandragupta Maurya founded the empire around 321 BCE with Chanakya's guidance. Bindusara was his son and Ashoka his grandson.",
+    "hi": "चंद्रगुप्त मौर्य ने लगभग 321 ई.पू. चाणक्य के मार्गदर्शन में साम्राज्य की स्थापना की। बिंदुसार उनके पुत्र और अशोक पौत्र थे।"
+   }
+  }
+ ],
+ "reasoning": {
+  "series": [
+   3,
+   6,
+   11,
+   18,
+   27
+  ],
+  "answer": 38,
+  "explain": {
+   "en": "The gaps are odd numbers: +3, +5, +7, +9, so next is +11. 27 + 11 = 38.",
+   "hi": "अंतर विषम संख्याएँ हैं: +3, +5, +7, +9, अगला +11। 27 + 11 = 38।"
+  }
+ }
+}

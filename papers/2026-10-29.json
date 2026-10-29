@@ -1,0 +1,171 @@
+{
+ "paper": 3,
+ "date": "2026-10-29",
+ "word": {
+  "answer": "DELHI",
+  "clue": {
+   "en": "Announced as the new capital of British India, in place of Calcutta, at the 1911 Durbar.",
+   "hi": "1911 के दरबार में कलकत्ता के स्थान पर ब्रिटिश भारत की नई राजधानी घोषित।"
+  }
+ },
+ "gs": [
+  {
+   "tag": {
+    "en": "Polity",
+    "hi": "राजव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "What is the minimum age to become a member of the Lok Sabha?",
+    "hi": "लोकसभा सदस्य बनने की न्यूनतम आयु कितनी है?"
+   },
+   "o": {
+    "en": [
+     "21 years",
+     "25 years",
+     "30 years",
+     "35 years"
+    ],
+    "hi": [
+     "21 वर्ष",
+     "25 वर्ष",
+     "30 वर्ष",
+     "35 वर्ष"
+    ]
+   },
+   "x": {
+    "en": "Article 84 sets 25 years for the Lok Sabha. It is 30 years for the Rajya Sabha and 35 for the President.",
+    "hi": "अनुच्छेद 84 के अनुसार लोकसभा के लिए 25 वर्ष। राज्यसभा के लिए 30 और राष्ट्रपति के लिए 35 वर्ष।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Geography",
+    "hi": "भूगोल"
+   },
+   "ans": 0,
+   "q": {
+    "en": "Which state has the longest coastline in India?",
+    "hi": "भारत में सबसे लंबी तटरेखा किस राज्य की है?"
+   },
+   "o": {
+    "en": [
+     "Gujarat",
+     "Andhra Pradesh",
+     "Tamil Nadu",
+     "Maharashtra"
+    ],
+    "hi": [
+     "गुजरात",
+     "आंध्र प्रदेश",
+     "तमिलनाडु",
+     "महाराष्ट्र"
+    ]
+   },
+   "x": {
+    "en": "Gujarat has the longest coastline of any Indian state, about 1,600 km.",
+    "hi": "गुजरात की तटरेखा सबसे लंबी है, लगभग 1,600 किमी।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Economy",
+    "hi": "अर्थव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Whose signature appears on the ₹1 currency note?",
+    "hi": "₹1 के नोट पर किसके हस्ताक्षर होते हैं?"
+   },
+   "o": {
+    "en": [
+     "RBI Governor",
+     "Finance Secretary",
+     "Finance Minister",
+     "Prime Minister"
+    ],
+    "hi": [
+     "RBI गवर्नर",
+     "वित्त सचिव",
+     "वित्त मंत्री",
+     "प्रधानमंत्री"
+    ]
+   },
+   "x": {
+    "en": "The ₹1 note is issued by the Government of India and signed by the Finance Secretary. All other notes are issued by the RBI and signed by the Governor.",
+    "hi": "₹1 का नोट भारत सरकार जारी करती है और उस पर वित्त सचिव के हस्ताक्षर होते हैं। बाकी नोट RBI जारी करता है और उन पर गवर्नर के हस्ताक्षर होते हैं।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Science",
+    "hi": "विज्ञान"
+   },
+   "ans": 2,
+   "q": {
+    "en": "Deficiency of which vitamin causes scurvy?",
+    "hi": "किस विटामिन की कमी से स्कर्वी रोग होता है?"
+   },
+   "o": {
+    "en": [
+     "Vitamin A",
+     "Vitamin D",
+     "Vitamin C",
+     "Vitamin K"
+    ],
+    "hi": [
+     "विटामिन A",
+     "विटामिन D",
+     "विटामिन C",
+     "विटामिन K"
+    ]
+   },
+   "x": {
+    "en": "Scurvy is caused by lack of Vitamin C (ascorbic acid). It causes bleeding gums and weakness.",
+    "hi": "स्कर्वी विटामिन C (एस्कॉर्बिक अम्ल) की कमी से होता है। इसमें मसूड़ों से खून आता है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "History",
+    "hi": "इतिहास"
+   },
+   "ans": 1,
+   "q": {
+    "en": "In which year did Gandhi begin the Dandi March?",
+    "hi": "गांधीजी ने दांडी मार्च किस वर्ष शुरू किया?"
+   },
+   "o": {
+    "en": [
+     "1920",
+     "1930",
+     "1942",
+     "1919"
+    ],
+    "hi": [
+     "1920",
+     "1930",
+     "1942",
+     "1919"
+    ]
+   },
+   "x": {
+    "en": "The Dandi March began from Sabarmati Ashram on 12 March 1930, starting the Civil Disobedience Movement against the salt tax.",
+    "hi": "दांडी मार्च 12 मार्च 1930 को साबरमती आश्रम से शुरू हुआ और नमक कर के विरुद्ध सविनय अवज्ञा आंदोलन आरंभ हुआ।"
+   }
+  }
+ ],
+ "reasoning": {
+  "series": [
+   5,
+   10,
+   20,
+   40
+  ],
+  "answer": 80,
+  "explain": {
+   "en": "Each term doubles: 40 × 2 = 80.",
+   "hi": "हर पद दोगुना होता है: 40 × 2 = 80।"
+  }
+ }
+}

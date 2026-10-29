@@ -1,0 +1,172 @@
+{
+ "paper": 9,
+ "date": "2026-11-04",
+ "word": {
+  "answer": "VEDAS",
+  "clue": {
+   "en": "The four oldest sacred texts of India; the Rigveda is the oldest of them.",
+   "hi": "भारत के चार सबसे प्राचीन ग्रंथ; ऋग्वेद इनमें सबसे पुराना है।"
+  }
+ },
+ "gs": [
+  {
+   "tag": {
+    "en": "Polity",
+    "hi": "राजव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Who administers the oath of office to the President of India?",
+    "hi": "भारत के राष्ट्रपति को पद की शपथ कौन दिलाता है?"
+   },
+   "o": {
+    "en": [
+     "Vice-President",
+     "Chief Justice of India",
+     "Speaker of the Lok Sabha",
+     "Prime Minister"
+    ],
+    "hi": [
+     "उपराष्ट्रपति",
+     "भारत के मुख्य न्यायाधीश",
+     "लोकसभा अध्यक्ष",
+     "प्रधानमंत्री"
+    ]
+   },
+   "x": {
+    "en": "Under Article 60, the Chief Justice of India administers the oath. In the CJI's absence, the senior-most Supreme Court judge does.",
+    "hi": "अनुच्छेद 60 के तहत भारत के मुख्य न्यायाधीश शपथ दिलाते हैं। उनकी अनुपस्थिति में सर्वोच्च न्यायालय के वरिष्ठतम न्यायाधीश।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Geography",
+    "hi": "भूगोल"
+   },
+   "ans": 0,
+   "q": {
+    "en": "Which state is known as the 'Land of Five Rivers'?",
+    "hi": "किस राज्य को 'पाँच नदियों की भूमि' कहा जाता है?"
+   },
+   "o": {
+    "en": [
+     "Punjab",
+     "Haryana",
+     "Bihar",
+     "Assam"
+    ],
+    "hi": [
+     "पंजाब",
+     "हरियाणा",
+     "बिहार",
+     "असम"
+    ]
+   },
+   "x": {
+    "en": "Punjab comes from Persian 'panj' (five) and 'ab' (water): the Jhelum, Chenab, Ravi, Beas and Sutlej.",
+    "hi": "पंजाब फ़ारसी 'पंज' (पाँच) और 'आब' (पानी) से बना है: झेलम, चिनाब, रावी, ब्यास और सतलुज।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Economy",
+    "hi": "अर्थव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Which index does the RBI use for its inflation target?",
+    "hi": "RBI अपने मुद्रास्फीति लक्ष्य के लिए किस सूचकांक का उपयोग करता है?"
+   },
+   "o": {
+    "en": [
+     "Wholesale Price Index",
+     "Consumer Price Index",
+     "GDP deflator",
+     "Index of Industrial Production"
+    ],
+    "hi": [
+     "थोक मूल्य सूचकांक",
+     "उपभोक्ता मूल्य सूचकांक",
+     "GDP अपस्फीतिक",
+     "औद्योगिक उत्पादन सूचकांक"
+    ]
+   },
+   "x": {
+    "en": "Under flexible inflation targeting, the RBI aims for 4% CPI (Combined) inflation with a band of ±2%.",
+    "hi": "लचीले मुद्रास्फीति लक्ष्य के तहत RBI का लक्ष्य CPI (संयुक्त) मुद्रास्फीति 4% (±2%) है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Science",
+    "hi": "विज्ञान"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Which organ produces insulin?",
+    "hi": "इंसुलिन किस अंग से बनता है?"
+   },
+   "o": {
+    "en": [
+     "Liver",
+     "Pancreas",
+     "Kidney",
+     "Spleen"
+    ],
+    "hi": [
+     "यकृत",
+     "अग्न्याशय",
+     "गुर्दा",
+     "प्लीहा"
+    ]
+   },
+   "x": {
+    "en": "Beta cells in the islets of Langerhans in the pancreas produce insulin, which lowers blood sugar.",
+    "hi": "अग्न्याशय की लैंगरहैंस द्वीपिकाओं की बीटा कोशिकाएँ इंसुलिन बनाती हैं, जो रक्त शर्करा घटाता है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "History",
+    "hi": "इतिहास"
+   },
+   "ans": 2,
+   "q": {
+    "en": "Who gave the slogan 'Do or Die' during the Quit India Movement?",
+    "hi": "भारत छोड़ो आंदोलन के दौरान 'करो या मरो' का नारा किसने दिया?"
+   },
+   "o": {
+    "en": [
+     "Jawaharlal Nehru",
+     "Subhas Chandra Bose",
+     "Mahatma Gandhi",
+     "Bal Gangadhar Tilak"
+    ],
+    "hi": [
+     "जवाहरलाल नेहरू",
+     "सुभाष चंद्र बोस",
+     "महात्मा गांधी",
+     "बाल गंगाधर तिलक"
+    ]
+   },
+   "x": {
+    "en": "Gandhi gave the call 'Do or Die' in Bombay on 8 August 1942, launching the Quit India Movement.",
+    "hi": "गांधीजी ने 8 अगस्त 1942 को बंबई में 'करो या मरो' का आह्वान कर भारत छोड़ो आंदोलन शुरू किया।"
+   }
+  }
+ ],
+ "reasoning": {
+  "series": [
+   2,
+   5,
+   11,
+   23,
+   47
+  ],
+  "answer": 95,
+  "explain": {
+   "en": "Each term is doubled plus 1: 47 × 2 + 1 = 95.",
+   "hi": "हर पद को 2 से गुणा कर 1 जोड़ा गया है: 47 × 2 + 1 = 95।"
+  }
+ }
+}

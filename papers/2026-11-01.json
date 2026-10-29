@@ -1,0 +1,172 @@
+{
+ "paper": 6,
+ "date": "2026-11-01",
+ "word": {
+  "answer": "SURAT",
+  "clue": {
+   "en": "Gujarat city on the Tapi river, famous for diamond cutting and textiles.",
+   "hi": "तापी नदी पर बसा गुजरात का शहर, हीरा तराशी और कपड़ा उद्योग के लिए प्रसिद्ध।"
+  }
+ },
+ "gs": [
+  {
+   "tag": {
+    "en": "Polity",
+    "hi": "राजव्यवस्था"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Article 370, made inoperative in 2019, gave special status to which region?",
+    "hi": "2019 में निष्प्रभावी किया गया अनुच्छेद 370 किस क्षेत्र को विशेष दर्जा देता था?"
+   },
+   "o": {
+    "en": [
+     "Nagaland",
+     "Jammu and Kashmir",
+     "Sikkim",
+     "Mizoram"
+    ],
+    "hi": [
+     "नागालैंड",
+     "जम्मू और कश्मीर",
+     "सिक्किम",
+     "मिज़ोरम"
+    ]
+   },
+   "x": {
+    "en": "Article 370 gave special status to Jammu and Kashmir. It was made inoperative in August 2019, and the Supreme Court upheld this in December 2023.",
+    "hi": "अनुच्छेद 370 जम्मू और कश्मीर को विशेष दर्जा देता था। अगस्त 2019 में इसे निष्प्रभावी किया गया और दिसंबर 2023 में सर्वोच्च न्यायालय ने इसे सही ठहराया।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Geography",
+    "hi": "भूगोल"
+   },
+   "ans": 0,
+   "q": {
+    "en": "Which strait separates India and Sri Lanka?",
+    "hi": "भारत और श्रीलंका को कौन-सा जलडमरूमध्य अलग करता है?"
+   },
+   "o": {
+    "en": [
+     "Palk Strait",
+     "Strait of Malacca",
+     "Strait of Hormuz",
+     "Bab-el-Mandeb"
+    ],
+    "hi": [
+     "पाक जलडमरूमध्य",
+     "मलक्का जलडमरूमध्य",
+     "होर्मुज जलडमरूमध्य",
+     "बाब-अल-मंदेब"
+    ]
+   },
+   "x": {
+    "en": "The Palk Strait lies between Tamil Nadu and northern Sri Lanka.",
+    "hi": "पाक जलडमरूमध्य तमिलनाडु और उत्तरी श्रीलंका के बीच है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Economy",
+    "hi": "अर्थव्यवस्था"
+   },
+   "ans": 2,
+   "q": {
+    "en": "Which Article of the Constitution deals with the Union Budget (Annual Financial Statement)?",
+    "hi": "संविधान का कौन-सा अनुच्छेद केंद्रीय बजट (वार्षिक वित्तीय विवरण) से संबंधित है?"
+   },
+   "o": {
+    "en": [
+     "Article 110",
+     "Article 280",
+     "Article 112",
+     "Article 265"
+    ],
+    "hi": [
+     "अनुच्छेद 110",
+     "अनुच्छेद 280",
+     "अनुच्छेद 112",
+     "अनुच्छेद 265"
+    ]
+   },
+   "x": {
+    "en": "Article 112 calls the budget the Annual Financial Statement. Article 110 defines Money Bills and Article 280 the Finance Commission.",
+    "hi": "अनुच्छेद 112 में बजट को वार्षिक वित्तीय विवरण कहा गया है। अनुच्छेद 110 धन विधेयक और 280 वित्त आयोग से जुड़ा है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "Science",
+    "hi": "विज्ञान"
+   },
+   "ans": 2,
+   "q": {
+    "en": "Which is the hardest naturally occurring substance?",
+    "hi": "सबसे कठोर प्राकृतिक पदार्थ कौन-सा है?"
+   },
+   "o": {
+    "en": [
+     "Iron",
+     "Quartz",
+     "Diamond",
+     "Graphite"
+    ],
+    "hi": [
+     "लोहा",
+     "क्वार्ट्ज़",
+     "हीरा",
+     "ग्रेफाइट"
+    ]
+   },
+   "x": {
+    "en": "Diamond, a form of carbon, is the hardest natural substance. Graphite is also carbon but is soft.",
+    "hi": "हीरा, कार्बन का एक रूप, सबसे कठोर प्राकृतिक पदार्थ है। ग्रेफाइट भी कार्बन है पर नरम होता है।"
+   }
+  },
+  {
+   "tag": {
+    "en": "History",
+    "hi": "इतिहास"
+   },
+   "ans": 1,
+   "q": {
+    "en": "Who wrote 'Gitanjali', which won the Nobel Prize in 1913?",
+    "hi": "1913 में नोबेल पुरस्कार जीतने वाली 'गीतांजलि' किसने लिखी?"
+   },
+   "o": {
+    "en": [
+     "Bankim Chandra Chatterjee",
+     "Rabindranath Tagore",
+     "Sarojini Naidu",
+     "Munshi Premchand"
+    ],
+    "hi": [
+     "बंकिमचंद्र चट्टोपाध्याय",
+     "रवींद्रनाथ टैगोर",
+     "सरोजिनी नायडू",
+     "मुंशी प्रेमचंद"
+    ]
+   },
+   "x": {
+    "en": "Rabindranath Tagore became the first Asian Nobel laureate in 1913 (Literature) for Gitanjali.",
+    "hi": "रवींद्रनाथ टैगोर 1913 में 'गीतांजलि' के लिए साहित्य का नोबेल पाने वाले पहले एशियाई बने।"
+   }
+  }
+ ],
+ "reasoning": {
+  "series": [
+   100,
+   95,
+   85,
+   70,
+   50
+  ],
+  "answer": 25,
+  "explain": {
+   "en": "The amount subtracted grows by 5: −5, −10, −15, −20, so next is −25. 50 − 25 = 25.",
+   "hi": "घटाई जाने वाली संख्या 5-5 बढ़ती है: −5, −10, −15, −20, अगली −25। 50 − 25 = 25।"
+  }
+ }
+}
